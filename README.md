@@ -1,2 +1,3 @@
 # hi-people
-my first repository
+
+Hi people! This i my first repository.
